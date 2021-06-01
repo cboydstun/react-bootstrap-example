@@ -1,0 +1,19 @@
+* {
+  box-sizing: border-box;
+}
+
+.App {
+  height: 100vh;
+  width: 100vw;
+  background-color: aqua;
+  display: flex;
+  flex-direction: column;
+  align-items: stretch;
+}
+
+.d-block {
+  display: flex;
+  align-items: center;
+  height: 50vh;
+  justify-content: center;
+}
